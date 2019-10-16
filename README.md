@@ -1,1 +1,1 @@
-# CLoudera-certification
+# Cloudera-certification
