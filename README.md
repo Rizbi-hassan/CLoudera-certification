@@ -1,1 +1,1 @@
-# Cloudera-certification
+# Cloudera-Spark-and-Hadoop-Developer-certification
